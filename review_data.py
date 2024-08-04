@@ -35,8 +35,10 @@ def read_data(path, line_start, line_end, value_start, value_end, ground_truth, 
     lines = read_cache(path)
     if line_start == line_end:
         cred_line = lines[line_start - 1]
+        multiline_end_offset = 0
     elif line_start < line_end:
         cred_line = '\n'.join(lines[line_start - 1:line_end])
+        multiline_end_offset = len(cred_line) - len(lines[line_end - 1])
     else:
         raise RuntimeError(f"Line start must be less than end. {path},{line_start},{line_end}")
 
@@ -74,9 +76,10 @@ def read_data(path, line_start, line_end, value_start, value_end, ground_truth, 
     if 0 <= value_start and 0 <= value_end:
         line = cred_line[:value_start] \
                + Back.LIGHTYELLOW_EX \
-               + cred_line[value_start:value_end] \
+               + cred_line[value_start:value_end + multiline_end_offset] \
                + Style.RESET_ALL \
-               + fore_style + cred_line[value_end:]
+               + fore_style \
+               + cred_line[value_end + multiline_end_offset:]
     else:
         line = cred_line
     print(f"{line_start}:{Style.RESET_ALL}{fore_style}{line}{Style.RESET_ALL}", flush=True)
