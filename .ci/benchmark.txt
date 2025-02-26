@@ -1,5 +1,5 @@
-META MD5 5a4b001c3f61d7736c4ae977930cc785
-DATA MD5 6b028257e6a02c5b5e2b4a03e79a238e
+META MD5 e5fde4fcfc81b6884c20a43ef1e2c0a9
+DATA MD5 d5ed0a0361c548d40e48156d78a61e48
 DATA: 16352935 interested lines. MARKUP: 59619 items
 FileType           FileNumber    ValidLines    Positives    Negatives    Templates
 ---------------  ------------  ------------  -----------  -----------  -----------
@@ -114,7 +114,7 @@ FileType           FileNumber    ValidLines    Positives    Negatives    Templat
 .markdown                   3           139                         3            1
 .markerb                    3            12                         3
 .marko                      1            21                         2
-.md                       700        149680          761         2335          592
+.md                       700        149680          760         2336          592
 .mdx                        3           549                         7
 .mjml                       1            18                         1
 .mjs                       22          4424           71          341
@@ -224,7 +224,7 @@ FileType           FileNumber    ValidLines    Positives    Negatives    Templat
 .yml                      420         36296          547          910          374
 .zsh                        6           872                        12
 .zsh-theme                  1            97                         1
-TOTAL:                  10343      16352935        12007        46638         5003
+TOTAL:                  10343      16352935        12006        46639         5003
 credsweeper result_cnt : 0, lost_cnt : 0, true_cnt : 0, false_cnt : 0
 Rules                             Positives    Negatives    Templates    Reported    TP    FP     TN     FN       FPR       FNR       ACC  PRC         RCL  F1
 ------------------------------  -----------  -----------  -----------  ----------  ----  ----  -----  -----  --------  --------  --------  -----  --------  ----
@@ -259,7 +259,7 @@ Grafana Provisioned API Key              22            1            0           
 JSON Web Token                          170           61            0                 0     0     61    170  0.000000  1.000000  0.264069         0.000000
 Jira / Confluence PAT token               0            4            0                 0     0      4      0  0.000000            1.000000
 Jira 2FA                                 21            0            1                 0     0      1     21  0.000000  1.000000  0.045455         0.000000
-Key                                    3915        15715          483                 0     0  16198   3915  0.000000  1.000000  0.805350         0.000000
+Key                                    3914        15716          483                 0     0  16199   3914  0.000000  1.000000  0.805399         0.000000
 Nonce                                    93           49            0                 0     0     49     93  0.000000  1.000000  0.345070         0.000000
 Other                                     9         7450            5                 0     0   7455      9  0.000000  1.000000  0.998794         0.000000
 PEM Private Key                        1019         1483            0                 0     0   1483   1019  0.000000  1.000000  0.592726         0.000000
@@ -276,4 +276,4 @@ Token                                   646         4170          453           
 Twilio Credentials                       30           39            0                 0     0     39     30  0.000000  1.000000  0.565217         0.000000
 URL Credentials                         218          169          202                 0     0    371    218  0.000000  1.000000  0.629881         0.000000
 UUID                                   1075          265            0                 0     0    265   1075  0.000000  1.000000  0.197761         0.000000
-                                      12007        46638         5003           0     0     0  46638  12007  0.000000  1.000000  0.795260         0.000000
+                                      12006        46639         5003           0     0     0  46639  12006  0.000000  1.000000  0.795277         0.000000
