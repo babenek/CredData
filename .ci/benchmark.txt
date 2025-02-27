@@ -1,5 +1,5 @@
-META MD5 6681d3566a5f84277657a90df4324819
-DATA MD5 a1e23331fdce1ed669289b501db70f01
+META MD5 9dd1e2bc3c1694b5bdd37c5fbd4e2b21
+DATA MD5 064b391ae79ea2443c2d9a17d8fb40d2
 DATA: 16352935 interested lines. MARKUP: 59619 items
 FileType           FileNumber    ValidLines    Positives    Negatives    Templates
 ---------------  ------------  ------------  -----------  -----------  -----------
@@ -136,7 +136,7 @@ FileType           FileNumber    ValidLines    Positives    Negatives    Templat
 .patch                      4        109405            4           27
 .pbxproj                    1           941                         1
 .pem                       48          1169           47            8
-.php                      371         75676          115         1451           71
+.php                      371         75676          116         1450           71
 .pl                        16         14727            7           33
 .pm                         3           744                         7
 .po                         3          2994                        15
@@ -224,7 +224,7 @@ FileType           FileNumber    ValidLines    Positives    Negatives    Templat
 .yml                      420         36296          547          910          374
 .zsh                        6           872                        12
 .zsh-theme                  1            97                         1
-TOTAL:                  10343      16352935        12009        46637         5002
+TOTAL:                  10343      16352935        12010        46636         5002
 credsweeper result_cnt : 0, lost_cnt : 0, true_cnt : 0, false_cnt : 0
 Rules                             Positives    Negatives    Templates    Reported    TP    FP     TN     FN       FPR       FNR       ACC  PRC         RCL  F1
 ------------------------------  -----------  -----------  -----------  ----------  ----  ----  -----  -----  --------  --------  --------  -----  --------  ----
@@ -266,7 +266,7 @@ PEM Private Key                        1019         1483            0           
 Password                               1944         7535         2622                 0     0  10157   1944  0.000000  1.000000  0.839352         0.000000
 SQL Password                             44           13            0                 0     0     13     44  0.000000  1.000000  0.228070         0.000000
 Salesforce Credentials                    2            0            0                 0     0      0      2            1.000000  0.000000         0.000000
-Salt                                     48           75            1                 0     0     76     48  0.000000  1.000000  0.612903         0.000000
+Salt                                     49           74            1                 0     0     75     49  0.000000  1.000000  0.604839         0.000000
 Secret                                 1310         1567          799                 0     0   2366   1310  0.000000  1.000000  0.643634         0.000000
 Seed                                      1            6            0                 0     0      6      1  0.000000  1.000000  0.857143         0.000000
 Slack Token                               4            1            0                 0     0      1      4  0.000000  1.000000  0.200000         0.000000
@@ -276,4 +276,4 @@ Token                                   647         4169          453           
 Twilio Credentials                       30           39            0                 0     0     39     30  0.000000  1.000000  0.565217         0.000000
 URL Credentials                         218          169          202                 0     0    371    218  0.000000  1.000000  0.629881         0.000000
 UUID                                   1075          265            0                 0     0    265   1075  0.000000  1.000000  0.197761         0.000000
-                                      12009        46637         5002           0     0     0  46637  12009  0.000000  1.000000  0.795229         0.000000
+                                      12010        46636         5002           0     0     0  46636  12010  0.000000  1.000000  0.795212         0.000000
