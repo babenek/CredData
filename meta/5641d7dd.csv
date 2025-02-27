@@ -22,7 +22,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,WithWords,Value
 29051,52210fdc,GitHub,5641d7dd,data/5641d7dd/test/52210fdc.js,15,15,Template,F,15,17,F,F,CharsOnly,,,Secret,0.0,2,F,F,F,Password
 29113,593f0ffc,GitHub,5641d7dd,data/5641d7dd/test/593f0ffc.js,16,16,Template,F,22,25,F,F,CharsOnly,,,Secret,0.0,3,F,F,F,Password
 30607,b3356305,GitHub,5641d7dd,data/5641d7dd/other/b3356305.md,98,98,Template,T,17,34,F,F,Any,,,Key,2.85,17,F,F,F,API:Key
-30639,b3356305,GitHub,5641d7dd,data/5641d7dd/other/b3356305.md,110,110,Template,T,54,62,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
+30639,b3356305,GitHub,5641d7dd,data/5641d7dd/other/b3356305.md,110,110,T,T,54,62,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
 32438,0880dd31,GitHub,5641d7dd,data/5641d7dd/src/0880dd31.js,17,17,T,F,19,30,F,F,Any,,,Secret,2.53,11,F,F,F,Secret
 32618,0880dd31,GitHub,5641d7dd,data/5641d7dd/src/0880dd31.js,6,6,T,F,13,37,F,F,Any,,,Key,3.22,24,F,F,F,API:Gitlab Incoming Email Token:Key
 32733,52210fdc,GitHub,5641d7dd,data/5641d7dd/test/52210fdc.js,8,8,T,F,11,35,F,F,Any,,,Key,3.22,24,F,F,F,API:Gitlab Incoming Email Token:Key
