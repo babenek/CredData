@@ -100,3 +100,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,WithWords,Value
 1340889,1f62c40d,GitHub,e3c63910,data/e3c63910/test/1f62c40d.scala,734,734,T,F,71,107,F,F,,,,,0.0,0,F,F,F,UUID
 1340890,1f62c40d,GitHub,e3c63910,data/e3c63910/test/1f62c40d.scala,1257,1257,T,F,53,89,F,F,,,,,0.0,0,F,F,F,UUID
 1340891,1f62c40d,GitHub,e3c63910,data/e3c63910/test/1f62c40d.scala,1277,1277,T,F,53,89,F,F,,,,,0.0,0,F,F,F,UUID
+1494703,2bea54be,GitHub,e3c63910,data/e3c63910/test/2bea54be.java,37,37,T,F,60,96,F,F,,,,,0.0,0,F,F,F,API

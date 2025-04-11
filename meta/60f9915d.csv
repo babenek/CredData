@@ -119,5 +119,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,WithWords,Value
 133395,492ba9f5,GitHub,60f9915d,data/60f9915d/test/492ba9f5.go,3671,3671,F,F,-1,-1,F,F,,,,,0.0,0,F,F,F,Key
 133396,492ba9f5,GitHub,60f9915d,data/60f9915d/test/492ba9f5.go,3698,3698,F,F,-1,-1,F,F,,,,,0.0,0,F,F,F,Key
 137948,4dc56e64,GitHub,60f9915d,data/60f9915d/test/4dc56e64.go,161,161,T,F,86,93,F,F,,,,,0.0,0,F,F,F,Password:URL Credentials
-138239,4dc56e64,GitHub,60f9915d,data/60f9915d/test/4dc56e64.go,161,161,F,F,65,-1,F,F,,,,,0.0,0,F,F,F,Other
+138239,4dc56e64,GitHub,60f9915d,data/60f9915d/test/4dc56e64.go,161,161,F,F,65,-1,F,F,,,,,0.0,0,F,F,F,Secret
 138240,4dc56e64,GitHub,60f9915d,data/60f9915d/test/4dc56e64.go,161,161,F,F,104,-1,F,F,,,,,0.0,0,F,F,F,Other

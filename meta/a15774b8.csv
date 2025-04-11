@@ -687,3 +687,25 @@ Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,WithWords,Value
 1480720,d868e55b,GitHub,a15774b8,data/a15774b8/other/d868e55b.md,90,90,T,F,35,45,F,F,,,,,0.0,0,F,F,F,SQL Password
 1481025,67f4851b,GitHub,a15774b8,data/a15774b8/other/67f4851b.md,61,61,F,F,37,62,F,F,,,,,0.0,0,F,F,F,Gitlab Incoming Email Token
 1481026,67f4851b,GitHub,a15774b8,data/a15774b8/other/67f4851b.md,78,78,F,F,4,29,F,F,,,,,0.0,0,F,F,F,Gitlab Incoming Email Token
+1494610,b5c590fc,GitHub,a15774b8,data/a15774b8/other/b5c590fc.md,22,22,T,F,40,46,F,F,,,,,0.0,0,F,F,F,Password
+1494611,0e722772,GitHub,a15774b8,data/a15774b8/src/0e722772.py,231,231,T,F,19,27,F,F,,,,,0.0,0,F,F,F,Password
+1494612,0e722772,GitHub,a15774b8,data/a15774b8/src/0e722772.py,238,238,T,F,22,30,F,F,,,,,0.0,0,F,F,F,Password
+1494613,12029c7b,GitHub,a15774b8,data/a15774b8/src/12029c7b.rsp,32,32,T,F,34,44,F,F,,,,,0.0,0,F,F,F,Password
+1494614,20eb3ac0,GitHub,a15774b8,data/a15774b8/src/20eb3ac0.properties,2,2,T,F,9,17,F,F,,,,,0.0,0,F,F,F,Password
+1494615,493bcc23,GitHub,a15774b8,data/a15774b8/src/493bcc23.properties,2,2,T,F,9,17,F,F,,,,,0.0,0,F,F,F,Password
+1494616,804a8f8d,GitHub,a15774b8,data/a15774b8/src/804a8f8d.rsp,358,358,T,F,34,44,F,F,,,,,0.0,0,F,F,F,Password
+1494617,84d2d062,GitHub,a15774b8,data/a15774b8/src/84d2d062.properties,2,2,T,F,9,17,F,F,,,,,0.0,0,F,F,F,Password
+1494618,85d4e34c,GitHub,a15774b8,data/a15774b8/src/85d4e34c.py,242,242,T,F,19,27,F,F,,,,,0.0,0,F,F,F,Password
+1494619,85d4e34c,GitHub,a15774b8,data/a15774b8/src/85d4e34c.py,249,249,T,F,22,30,F,F,,,,,0.0,0,F,F,F,Password
+1494620,90fe5e61,GitHub,a15774b8,data/a15774b8/src/90fe5e61.py,436,436,T,F,18,26,F,F,,,,,0.0,0,F,F,F,Password
+1494621,90fe5e61,GitHub,a15774b8,data/a15774b8/src/90fe5e61.py,442,442,T,F,21,29,F,F,,,,,0.0,0,F,F,F,Password
+1494622,afe6ad16,GitHub,a15774b8,data/a15774b8/src/afe6ad16.properties,2,2,T,F,8,18,F,F,,,,,0.0,0,F,F,F,Password
+1494623,c0d5700f,GitHub,a15774b8,data/a15774b8/src/c0d5700f.py,231,231,T,F,19,27,F,F,,,,,0.0,0,F,F,F,Password
+1494624,c0d5700f,GitHub,a15774b8,data/a15774b8/src/c0d5700f.py,238,238,T,F,22,30,F,F,,,,,0.0,0,F,F,F,Password
+1494625,cd9a4a5e,GitHub,a15774b8,data/a15774b8/src/cd9a4a5e.properties,2,2,T,F,9,17,F,F,,,,,0.0,0,F,F,F,Password
+1494626,cf045aeb,GitHub,a15774b8,data/a15774b8/src/cf045aeb.properties,2,2,T,F,8,18,F,F,,,,,0.0,0,F,F,F,Password
+1494627,fa5377ca,GitHub,a15774b8,data/a15774b8/src/fa5377ca.py,909,909,T,F,18,26,F,F,,,,,0.0,0,F,F,F,Password
+1494628,fa5377ca,GitHub,a15774b8,data/a15774b8/src/fa5377ca.py,915,915,T,F,21,29,F,F,,,,,0.0,0,F,F,F,Password
+1494629,ff46148a,GitHub,a15774b8,data/a15774b8/src/ff46148a.py,577,577,T,F,18,26,F,F,,,,,0.0,0,F,F,F,Password
+1494630,ff46148a,GitHub,a15774b8,data/a15774b8/src/ff46148a.py,583,583,T,F,21,29,F,F,,,,,0.0,0,F,F,F,Password
+1494631,ff846471,GitHub,a15774b8,data/a15774b8/src/ff846471.properties,2,2,T,F,9,17,F,F,,,,,0.0,0,F,F,F,Password
