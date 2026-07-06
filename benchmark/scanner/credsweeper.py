@@ -57,10 +57,9 @@ class CredSweeper(Scanner):
 
             self.reported[meta_cred.rule] = 1 + self.reported.get(meta_cred.rule, 0)
 
-            check_line_result, project_id, file_id = \
-                self.check_line_from_meta(file_path=meta_cred.path,
-                                          line_start=meta_cred.line_start,
-                                          line_end=meta_cred.line_end,
-                                          value_start=meta_cred.value_start,
-                                          value_end=meta_cred.value_end,
-                                          rule=meta_cred.rule)
+            self.check_line_from_meta(file_path=meta_cred.path,
+                                      line_start=meta_cred.line_start,
+                                      line_end=meta_cred.line_end,
+                                      value_start=meta_cred.value_start,
+                                      value_end=meta_cred.value_end,
+                                      rule=meta_cred.rule)

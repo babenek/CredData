@@ -45,7 +45,7 @@ class MetaRow:
             row_val = row.get(key)
             if row_val is not None:
                 if typ is int:
-                    if row_val:
+                    if isinstance(row_val, str) and row_val or isinstance(row_val, (int, float)):
                         val = typ(row_val)
                     else:
                         val = -1
