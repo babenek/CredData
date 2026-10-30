@@ -279,7 +279,7 @@ class Scanner(ABC):
                              line_end: int,
                              value_start: int = -1,
                              value_end: int = -1,
-                             rule: str = "") -> Tuple[LineStatus, str, str]:
+                             rule: str = "Other") -> Tuple[LineStatus, str, str]:
         self.result_cnt += 1
         data_path, repo_name, file_name, file_id = self.get_items_from_path(file_path)
         # by default the cred is false positive
